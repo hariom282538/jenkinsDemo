@@ -1,2 +1,2 @@
 develop
-lazy testing 0
+lazy testing 1
